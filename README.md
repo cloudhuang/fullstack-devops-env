@@ -4,7 +4,7 @@ Full Stack Development Environment
 虚拟化一站式DevOps开发环境
 
 ## Goals
-基于Vagrant和VirtualBox建立一站式DevOps研发环境，以学习练习DevOps理念以及相关开源组件的使用。
+基于Vagrant和VirtualBox建立一站式DevOps研发环境，以学习DevOps理念并练习相关开源组件的使用。
 
 ![](assets/imgs/DevOps_Infinity_Loop.png)
 
@@ -77,4 +77,4 @@ TBD
 - [ ] Vagrant虚拟化服务器
 - [ ] K8S
 - [ ] istio
-- [ ] Jenkis部署流水线
+- [ ] Jenkins部署流水线
